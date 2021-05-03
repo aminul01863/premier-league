@@ -1,0 +1,41 @@
+.cart-container{
+    width:90%;
+    background-image:linear-gradient(rgb(92, 15, 236),rgb(112, 36, 219));
+    color: white;
+    border-radius: 10px;
+}
+.colure-details{
+    background-color: blue;
+}
+.description{
+        margin: 100px;
+        color: white;
+        overflow: hidden;
+}
+.conditional{
+    border-radius: 10px;
+}
+.conditional img{
+    width: 100%;
+}
+
+.logo{
+    max-width: 200px;
+    max-height: 200px;
+    background-color: rgba(128, 128, 128, 0.26);
+    border-radius:100px;
+}
+.social-icon a{
+    margin:10px;
+    height:100px;
+    width: 100px;
+    
+}
+.social-icon{
+    text-align: center;
+    font-size: 30px;
+}
+.detail-icon p img{
+width: 20px;
+margin: 10px;
+}
